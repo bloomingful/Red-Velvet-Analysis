@@ -1,0 +1,10 @@
+genres/
+datasets/
+model/
+env/
+sample_music/
+backup/
+__MACOSX/
+.idea/
+.DS_Store
+
