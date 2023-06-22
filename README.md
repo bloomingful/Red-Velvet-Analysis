@@ -1,4 +1,4 @@
-# Red Velvet Analysis
+## About
 Analysis of Red Velvet music using Deep Learning.
 
 ## Models
